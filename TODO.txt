@@ -1,1 +1,7 @@
-add string formatting to strings cheatsheet
+-Lists Cheatsheet --> done
+-Strings Cheatsheet
+---add string formatting to strings cheatsheet
+
+
+-Change Chapter 0 name to "Course introduction"
+-Remove the telegram id at the end of the slides
