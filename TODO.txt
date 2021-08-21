@@ -2,6 +2,17 @@
 -Strings Cheatsheet
 ---add string formatting to strings cheatsheet
 
+-Create Methods and Functions - part 1 HW
+---update it.
+
+Create Control Flow Statements Homework
+---Add Conditional Statements
+---Add Loops
+
+
+
+
+
 
 -Change Chapter 0 name to "Course introduction"
 -Remove the telegram id at the end of the slides
